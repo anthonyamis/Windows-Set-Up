@@ -1,2 +1,2 @@
-Net+ Home LAb (Windows Set Up)
+Net+ Home Lab
 
